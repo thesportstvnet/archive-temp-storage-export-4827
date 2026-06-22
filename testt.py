@@ -267,6 +267,7 @@ class SportzxClient:
 
 # ────────────────────────────────────────────────
 if __name__ == "__main__":
+    import sys
     excluded_env = os.getenv("SPORTZX_EXCLUDED_CATEGORIES", "")
     excluded_categories = ["adult", "test", "xxx"]
     if excluded_env:
@@ -285,7 +286,7 @@ if __name__ == "__main__":
     except Exception:
         timeout_val = 15
 
-    output_file = os.getenv("OUTPUT_FILE", "output.json")   # <-- JSON output
+    output_file = os.getenv("OUTPUT_FILE", "output.json")
 
     client = SportzxClient(
         excluded_categories=excluded_categories,
@@ -293,8 +294,23 @@ if __name__ == "__main__":
     )
 
     print("Recupero canali...")
-    canali = client.get_channels()
+    try:
+        canali = client.get_channels()
+    except Exception as e:
+        print(f"❌ Errore durante il recupero dei canali: {e}")
+        sys.exit(1)
+
     print(f"Trovati {len(canali)} canali in totale")
+
+    if canali:
+        try:
+            client.save_json(canali, filename=output_file)
+        except Exception as e:
+            print(f"❌ Errore durante il salvataggio del JSON: {e}")
+            sys.exit(1)
+    else:
+        print("❌ Nessun canale trovato")
+        sys.exit(1)
 
     if canali:
         client.save_json(canali, filename=output_file)
