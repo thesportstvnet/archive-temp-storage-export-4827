@@ -1,4 +1,4 @@
-name: Update
+name: Update Sportzx Streams
 
 on:
   schedule:
@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -24,7 +22,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run Sportzx client
-        run: python testt.py          # <-- changed here
+        run: python testt.py
         env:
           OUTPUT_FILE: "output.json"
           # optional: SPORTZX_EXCLUDED_CATEGORIES: '["adult","test"]'
