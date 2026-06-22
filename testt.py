@@ -4,11 +4,38 @@ import base64
 import re
 import os
 import sys
-from typing import List, Optional
+from typing import List, Optional, Dict
 from dataclasses import dataclass
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
+
 
 APP_PASSWORD = "oAR80SGuX3EEjUGFRwLFKBTiris="
+
+# ── Status detection window ─────────────────────────────────────────────────
+# An event is considered "Live" if the current UTC time is:
+#   - AFTER the event start time, AND
+#   - BEFORE the event start time + LIVE_WINDOW_HOURS
+# Everything outside that window is "Upcoming".
+LIVE_WINDOW_HOURS = 6
+
+
+def compute_status(event_time_str: str) -> str:
+    """
+    Determine Live or Upcoming from a GMT/UTC event_time string.
+    Accepts formats: 'YYYY-MM-DD HH:MM' or 'YYYY/MM/DD HH:MM'
+    """
+    if not event_time_str:
+        return "Upcoming"
+    try:
+        clean = event_time_str[:16].replace("/", "-")
+        event_dt = datetime.strptime(clean, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
+        now = datetime.now(timezone.utc)
+        end_dt = event_dt + timedelta(hours=LIVE_WINDOW_HOURS)
+        if event_dt <= now < end_dt:
+            return "Live"
+        return "Upcoming"
+    except Exception:
+        return "Upcoming"
 
 
 @dataclass
@@ -258,10 +285,37 @@ class SportzxClient:
 
     def save_json(self, channels: List[SportzxChannel], filename: str = "output.json") -> None:
         """
-        Saves all channels with HTTPS stream URLs to a JSON file.
-        Non-HTTPS URLs are skipped.
+        Saves events grouped by event_id with a 'servers' array per event.
+        Status (Live/Upcoming) is automatically computed from event_time (UTC/GMT).
+
+        Output format (natively compatible with LiveEventManager mapping):
+        [
+          {
+            "title":      "WWE Monday Night RAW",
+            "category":   "WWE",
+            "event_time": "2026-06-23 00:00",   ← UTC/GMT
+            "status":     "Live",               ← auto-computed
+            "servers": [
+              { "name": "SportzX WWE", "url": "https://...", "drm_key": "" },
+              { "name": "HD SERVER",   "url": "https://...", "drm_key": "keyid:key" }
+            ]
+          },
+          ...
+        ]
+
+        Admin CP Source Mapping to use:
+          - events_array_path : (leave empty — root is the array)
+          - title             : title
+          - category          : category
+          - status            : status
+          - servers_array_path: servers
+          - server_name       : name
+          - stream_url        : url
+          - drm_key           : drm_key
         """
-        output_data = []
+        # Group channels by event_id — preserve insertion order for stable output
+        events_map: Dict[str, dict] = {}
+
         skipped_http = 0
 
         for ch in channels:
@@ -270,23 +324,37 @@ class SportzxClient:
                 skipped_http += 1
                 continue
 
-            output_data.append({
-                "event_title": ch.event_title,
-                "event_id": ch.event_id,
-                "category": ch.event_cat,
-                "event_name": ch.event_name,
-                "event_time": ch.event_time,
-                "channel_title": ch.channel_title,
-                "stream_url": ch.stream_url,
-                "keyid": ch.keyid,
-                "key": ch.key,
-                "api": ch.api,
-            })
+            eid = str(ch.event_id)
+
+            if eid not in events_map:
+                status = compute_status(ch.event_time)
+                events_map[eid] = {
+                    "title":      ch.event_name or ch.event_title,
+                    "category":   ch.event_cat,
+                    "event_time": ch.event_time,   # kept for reference / debugging
+                    "status":     status,
+                    "servers":    [],
+                }
+
+            server_entry = {
+                "name":    ch.channel_title or "Server",
+                "url":     ch.stream_url,
+                "drm_key": ch.api or "",          # "keyid:key" format, or "" for no DRM
+            }
+            events_map[eid]["servers"].append(server_entry)
+
+        output_data = list(events_map.values())
+
+        # Stats
+        live_count     = sum(1 for e in output_data if e["status"] == "Live")
+        upcoming_count = sum(1 for e in output_data if e["status"] == "Upcoming")
+        server_count   = sum(len(e["servers"]) for e in output_data)
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-        print(f"✅ Saved {len(output_data)} HTTPS streams to {filename}")
+        print(f"✅ Saved {len(output_data)} events ({live_count} Live, {upcoming_count} Upcoming) to {filename}")
+        print(f"   Total streams: {server_count}")
         print(f"⏭️  Skipped {skipped_http} non-HTTPS streams")
 
 
