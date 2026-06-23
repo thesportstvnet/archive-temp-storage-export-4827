@@ -339,7 +339,7 @@
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://storage.googleapis.com/poiuytyrnvggdover2/mux_video_ts1/index-1.m3u8",
+        "url": "https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8",
         "drm_key": ""
       },
       {
@@ -607,12 +607,12 @@
       },
       {
         "name": "SportzX FHD LIVE",
-        "url": "https://soccerball.st/s1.php",
+        "url": "https://soccerball.st/s2.php",
         "drm_key": ""
       },
       {
         "name": "TSN SPORTS HD",
-        "url": "https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8",
+        "url": "https://obeliskadefat.s3.us-west-2.amazonaws.com/btsport.m3u8",
         "drm_key": ""
       },
       {
@@ -743,6 +743,11 @@
       {
         "name": "TSN SPORTS HD",
         "url": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "ARABIC LIVE",
+        "url": "https://oottoo.online/max1--g/tracks-v1a1/mono.m3u8",
         "drm_key": ""
       },
       {
