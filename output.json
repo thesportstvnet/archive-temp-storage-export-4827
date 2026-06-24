@@ -1913,7 +1913,7 @@
       },
       {
         "name": "TELEMUNDO HD",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       },
       {
@@ -1977,6 +1977,11 @@
         "drm_key": ""
       },
       {
+        "name": "SportzX Live",
+        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
+        "drm_key": ""
+      },
+      {
         "name": "TVP SPORTS FHD",
         "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "drm_key": "0:0"
@@ -1995,11 +2000,6 @@
         "name": "Match Football FHD",
         "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
         "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "drm_key": ""
       },
       {
         "name": "DAZN SPANISH",
@@ -2070,9 +2070,9 @@
         "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
-        "name": "FOX SPORTS HD",
-        "url": "https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-        "drm_key": ""
+        "name": "CT SPORTS CZ",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
       },
       {
         "name": "ITV SPORTS HD",
@@ -2080,8 +2080,23 @@
         "drm_key": ""
       },
       {
+        "name": "FOX SPORTS HD",
+        "url": "https://xyzcloud3.xyz/FS1/index.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "TVCG FHD",
+        "url": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
+        "drm_key": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
+      },
+      {
         "name": "FAST SERVER",
         "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
+        "drm_key": ""
+      },
+      {
+        "name": "NBC SPORTS HD",
+        "url": "https://instreams.pro/US/NFLHD4/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       },
       {
@@ -2091,28 +2106,8 @@
       },
       {
         "name": "TSN Sports FHD",
-        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "url": "https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
         "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-      },
-      {
-        "name": "ViX MUNDIAL ES",
-        "url": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "drm_key": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203"
-      },
-      {
-        "name": "FOX SPORTS - AQ",
-        "url": "https://customer-rqx2ncfj15h2he6q.cloudflarestream.com/92f6cbdfdbed488c94405d1c605bc403/manifest/video.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX FHD LIVE",
-        "url": "https://soccerball.st/s1.php",
-        "drm_key": ""
-      },
-      {
-        "name": "FIFA WC FEED",
-        "url": "https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703",
-        "drm_key": ""
       },
       {
         "name": "FOX SPORTS [ALT]",
@@ -2121,38 +2116,18 @@
       },
       {
         "name": "TSN SPORTS [ALT]",
-        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-        "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
-        "name": "SporTV BR FHD",
-        "url": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-        "drm_key": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0"
+        "name": "ITV 1 FHD [ALT]",
+        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
+        "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
       },
       {
-        "name": "FOX ONE 4K",
-        "url": "https://vizio.kuvuslov.cymru/fs1-4k/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS 4K",
-        "url": "https://vizio.kuvuslov.cymru/tsn4k/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "NOW SPORTS 4K",
-        "url": "https://vizio.kuvuslov.cymru/nowhk/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "beIN ARABIC 4K",
-        "url": "https://vizio.kuvuslov.cymru/bein4k/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TELEMUNDO 4K",
-        "url": "https://vizio.kuvuslov.cymru/telemundo-4k/index.m3u8?",
-        "drm_key": ""
+        "name": "NBC UNIVERSO [ALT]",
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
+        "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
       },
       {
         "name": "FUSSBALL TV 4K",
@@ -2160,9 +2135,9 @@
         "drm_key": "4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03"
       },
       {
-        "name": "TRT SPORTS 2K",
-        "url": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-        "drm_key": ""
+        "name": "FUSSBALL TV2 4K",
+        "url": "https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd",
+        "drm_key": "ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827"
       },
       {
         "name": "IRIB 4K",
@@ -2170,47 +2145,12 @@
         "drm_key": ""
       },
       {
-        "name": "ARABIC LIVE FHD",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/rsxfkoHxmZzOJknVEXMJN8Vja4iZs21NV5YzspfMv27zoFyP-Xv6V_ontpn1CHLusjYuTM4_-rlb-sl7bPhuJA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-        "drm_key": ""
-      },
-      {
-        "name": "TELEMUNDO HD",
-        "url": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TIPIK FR FHD",
-        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-        "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
-      },
-      {
         "name": "TVP SPORTS FHD",
         "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
         "drm_key": "0:0"
       },
       {
-        "name": "Sporza DUTCH FHD",
-        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-        "drm_key": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
-      },
-      {
-        "name": "Match Football FHD",
-        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
-      },
-      {
-        "name": "JOJ SPORTS FHD",
-        "url": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-      },
-      {
-        "name": "TELEMUNDO [ALT]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-        "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-      },
-      {
-        "name": "ITV SPORTS HD",
+        "name": "FOX SPORTS HD",
         "url": "https://chatgpt.hereisman.net/playlist/52362/load-playlist?",
         "drm_key": ""
       },
@@ -2220,14 +2160,24 @@
         "drm_key": ""
       },
       {
-        "name": "FOX SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52361/load-playlist?",
+        "name": "SportzX Live",
+        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8",
         "drm_key": ""
       },
       {
-        "name": "ARABIC LIVE HD",
-        "url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hj_BA0tHwHyQFlOwh6seUTPf2ACOiJ3_IjLgOj5DtwqcmL2_SKI3tWF2JoxA4SGJxr22d2nAMrfP92FcmYv6Dw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+        "name": "HD SERVER ENG",
+        "url": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?",
         "drm_key": ""
+      },
+      {
+        "name": "HD SERVER AR",
+        "url": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "Match Football FHD",
+        "url": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+        "drm_key": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114"
       },
       {
         "name": "DAZN SPANISH",
@@ -2250,11 +2200,6 @@
         "drm_key": ""
       },
       {
-        "name": "beIN MAX HD",
-        "url": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8",
-        "drm_key": ""
-      },
-      {
         "name": "FUSSBALL 4K [GER]",
         "url": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
         "drm_key": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac"
@@ -2270,24 +2215,9 @@
         "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
       },
       {
-        "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER ENG",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER AR",
-        "url": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "CT SPORTS CZ",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        "name": "Sporza DUTCH FHD",
+        "url": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+        "drm_key": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460"
       }
     ]
   },
@@ -2295,7 +2225,7 @@
     "title": "Miami Marlins vs Texas Rangers",
     "category": "MLB",
     "event_time": "2026-06-24 16:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
@@ -2308,7 +2238,7 @@
     "title": "New York Mets vs Chicago Cubs",
     "category": "MLB",
     "event_time": "2026-06-24 17:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
