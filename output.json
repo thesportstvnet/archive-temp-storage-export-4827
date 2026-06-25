@@ -1,5 +1,83 @@
 [
   {
+    "title": "Formula 1 - Austria GP",
+    "category": "F1",
+    "event_time": "2026-06-26 11:30",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "FANCODE FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
+      },
+      {
+        "name": "beIN SPORTS FHD",
+        "url": "https://RCG-BKS400-06.starhubgo.com/bpk-token/1ab@kjminpxbrbv3nm022hgilyq044kcdk11kxqdaxda/bpk-tv/BeINSportsHD/output/manifest.mpd",
+        "drm_key": "4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48"
+      },
+      {
+        "name": "SKY SPORTS DE",
+        "url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+        "drm_key": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9"
+      },
+      {
+        "name": "SportzX F1 HD",
+        "url": "https://chatgpt.hereisman.net/playlist/51883/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY GERMAN FHD",
+        "url": "https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd",
+        "drm_key": "ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b"
+      },
+      {
+        "name": "Tipik FRANCE FHD",
+        "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/cd1fd9ab/23b52321.isml/.mpd",
+        "drm_key": "ed52a165d7e947a1b5d6358eb05fbceb:3569ad9af6dc5a12bb7d5f69cca95345"
+      },
+      {
+        "name": "SKY SPORTS FHD",
+        "url": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "DAZN ESPANOL HD",
+        "url": "https://oe1.ossfeed.store/out/v2/2b8554438cb37f5ffc8c792962d2fabf/tracks-v0a0/mono.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY ITALY FHD",
+        "url": "https://oe1.ossfeed.store/out/v2/984e389e76455ff421cd4f2aa19ce2d1/tracks-v0a0/mono.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY SPORTS HD",
+        "url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "ELEVEN SPORTS",
+        "url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+        "drm_key": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59"
+      },
+      {
+        "name": "Sky F1 DE",
+        "url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "F1 TV FHD",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd",
+        "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3"
+      },
+      {
+        "name": "Fox Sports - AQ",
+        "url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
+        "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f"
+      }
+    ]
+  },
+  {
     "title": "Ireland vs India",
     "category": "Cricket",
     "event_time": "2026-06-26 12:30",
@@ -137,10 +215,95 @@
     ]
   },
   {
+    "title": "Nationals vs Philadelphia Phillies",
+    "category": "MLB",
+    "event_time": "2026-06-25 22:45",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX LIVE",
+        "url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
+    "title": "Toronto Blue Jays vs Texas Rangers",
+    "category": "MLB",
+    "event_time": "2026-06-25 23:07",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52494/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
+    "title": "Boston Red Sox vs New York Yankees",
+    "category": "MLB",
+    "event_time": "2026-06-25 23:10",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52495/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX Live",
+        "url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
+    "title": "New York Mets vs Chicago Cubs",
+    "category": "MLB",
+    "event_time": "2026-06-25 23:10",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52498/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX Live",
+        "url": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
+    "title": "Cardinals vs Arizona Diamondbacks",
+    "category": "MLB",
+    "event_time": "2026-06-25 23:45",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52506/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX Live",
+        "url": "https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
     "title": "India W vs Bangladesh W",
     "category": "Cricket",
     "event_time": "2026-06-25 13:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
@@ -173,64 +336,26 @@
     "title": "West Indies vs Sri Lanka",
     "category": "Cricket",
     "event_time": "2026-06-25 14:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "WILLOW FHD",
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
+        "drm_key": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2"
+      },
       {
         "name": "TNT Sports FHD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
         "drm_key": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca"
       },
       {
-        "name": "FANCODE FHD",
-        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
-      },
-      {
-        "name": "WILLOW FHD",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjdpnuswqz/out/v1/ceaca3cd8fb64067a4fc34b99c6dc7d3/cenc.mpd",
-        "drm_key": "024b12ed56ef6d009b165ffa1e026f46:1962fbc99c0922ac1408cd401b3c0851"
-      },
-      {
         "name": "WILLOW [ALT]",
-        "url": "https://otte-tim.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cjdpnuswqz/out/v1/ceaca3cd8fb64067a4fc34b99c6dc7d3/cenc.mpd",
-        "drm_key": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae"
-      }
-    ]
-  },
-  {
-    "title": "England vs New Zealand",
-    "category": "Cricket",
-    "event_time": "2026-06-25 10:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
-        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pdcl67vbop/out/v1/0d0b81932d164c35af71d6ec4b6f1e86/cenc.mpd",
+        "drm_key": "13c76e512751a7c64d52540bcf70186e:d91ec76df7fc7b50e22ca599e846f1e2"
       },
       {
-        "name": "SKY CRICKET FHD",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
-        "drm_key": ""
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
-        "drm_key": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2"
-      },
-      {
-        "name": "SKY MAIN EVENT",
-        "url": "https://tmaxapp.site/skymainevent.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz1.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "SonyLiv",
-        "url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1",
+        "name": "FANCODE - IN",
+        "url": "https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a130557_1ta-di_h264/index.m3u8",
         "drm_key": ""
       }
     ]
