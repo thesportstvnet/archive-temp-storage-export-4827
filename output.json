@@ -2,8 +2,8 @@
   {
     "title": "Formula 1 - Austria GP",
     "category": "F1",
-    "event_time": "2026-06-26 15:00",
-    "status": "Live",
+    "event_time": "2026-06-27 10:30",
+    "status": "Upcoming",
     "servers": [
       {
         "name": "FANCODE FHD",
@@ -313,17 +313,17 @@
     "title": "Sri Lanka W vs Scotland W",
     "category": "Cricket",
     "event_time": "2026-06-26 17:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
-        "drm_key": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33"
+        "url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "drm_key": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709"
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd",
-        "drm_key": "2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oem4ketfif/out/v1/d39d9b1cc8fc425781fb2a8795852c5b/cenc.mpd",
+        "drm_key": "ffd953103f67ee3f1dfa7caffaaf0d58:3d59b78680834cee5792572927615709"
       },
       {
         "name": "SKY SPORT NZ",
@@ -387,24 +387,19 @@
         "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
       },
       {
+        "name": "WC TV FHD",
+        "url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+        "drm_key": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb"
+      },
+      {
         "name": "TSN SPORTS FHD",
         "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
       },
       {
         "name": "TOFFE BDIX (BD)",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_2000.m3u8?hdntl=Expires=1782418809~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveF8BgsmNe1sCxy0CAuaX0CpEJzUogRTlfjKkPvojCcdktcLGMvpcmtVW6uCNdLknLp-hjnAHmHww7pzwkZMsQD",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782578409~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdnhDQZKdpSkX1giJ51S9S0OwgRzxUUGKmn6g9c-FFi95KAGfRqdN_MCCno28NJwKDdfxEfc8jNZF5ST9E9WgAO",
         "drm_key": ""
-      },
-      {
-        "name": "FOX ONE FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
-        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-      },
-      {
-        "name": "TELEMUNDO FHD",
-        "url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-        "drm_key": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
       },
       {
         "name": "M6 FRANCE FHD",
@@ -412,9 +407,19 @@
         "drm_key": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283"
       },
       {
-        "name": "TVE La1 SPANISH",
-        "url": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-        "drm_key": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54"
+        "name": "FOX ONE FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+        "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
+      },
+      {
+        "name": "RTE SPORTS FHD",
+        "url": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/4425a49a-053b-4da9-9c34-fef747301923:GRQ/manifest.mpd",
+        "drm_key": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d"
+      },
+      {
+        "name": "ITV SPORTS HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52474/load-playlist?",
+        "drm_key": ""
       },
       {
         "name": "D Sports FHD",
@@ -427,13 +432,13 @@
         "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
       },
       {
-        "name": "beIN MAX FHD",
-        "url": "https://inproviszon.st/beinsportsmax4-sa.m3u8",
-        "drm_key": ""
+        "name": "TELEMUNDO FHD",
+        "url": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+        "drm_key": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f"
       },
       {
-        "name": "SportzX HD LIVE",
-        "url": "https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8",
+        "name": "beIN MAX FHD",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505431/ea657348dfd94fa9a03ea9b9c4a63ddc/1cXbJqsCyU-sezwERv9t53CNuzWjAQrbw3S92PMbVW8/beinsportsmax2-sa.m3u8",
         "drm_key": ""
       },
       {
@@ -442,34 +447,24 @@
         "drm_key": ""
       },
       {
-        "name": "Binge+ FHD (BD)",
-        "url": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8",
+        "name": "CT SPORTS CZ",
+        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+      },
+      {
+        "name": "TSN SPORTS FHD",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505246/c0f94047d9384cc28fc6761b45f2a27c/LjamqnQrQpZ9DDHigeYTFD-5NW22AkQMQ5xbWHeIUt0/tsn1-ca.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX ONE HD",
+        "url": "https://lb.xyzcloud3.xyz/FOX/index.m3u8?",
         "drm_key": ""
       },
       {
         "name": "TVP SPORTS HD",
         "url": "https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd",
         "drm_key": "0:0"
-      },
-      {
-        "name": "TVCG 1 FHD",
-        "url": "https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd",
-        "drm_key": "8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a"
-      },
-      {
-        "name": "FOX ONE HD",
-        "url": "https://lb.xyzcloud3.xyz/FOX/index.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "BBC SPORTS HD",
-        "url": "https://chatgpt.hereisman.net/playlist/52474/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoJkAjWkPCi.m3u8?txSecret=c6aaad0168258ac0f0eee506b9b73492&txTime=6A3C7689",
-        "drm_key": ""
       },
       {
         "name": "TELEMUNDO HD",
@@ -487,9 +482,9 @@
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
       },
       {
-        "name": "FOX ONE 4K [ALT]",
-        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
-        "drm_key": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d"
+        "name": "ITV 1 FHD [ALT]",
+        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
       },
       {
         "name": "TSN SPORTS [ALT]",
@@ -500,11 +495,6 @@
         "name": "FOX ONE [ALT]",
         "url": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
         "drm_key": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7"
-      },
-      {
-        "name": "PEACOCK FHD [ALT]",
-        "url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021312-723170-4911d8fa8e2)/master_2hr.mpd?c3.ri=6a3c4832_Q1ZYMDc_1_Q0xPVURGUk9OVA_906d6d3e137a%3A0&aws.sessionId=13bed550-6c6a-4d31-88a5-19ec199491a2&ck=eyIwMDIyYzRjNzI5ZDA3MjNlMDE0Y2E1YTFkNmI2MTc1NiI6Ijg1MmNiMTc0MTljZjA5N2E2NmEwNDA5MGYwNmY4NmNjIn0%3D",
-        "drm_key": "0022c4c729d0723e014ca5a1d6b61756:852cb17419cf097a66a04090f06f86cc"
       },
       {
         "name": "TELEMUNDO [USA]",
@@ -518,17 +508,22 @@
       },
       {
         "name": "FOX 4K LIVE",
-        "url": "https://hundredmilesperhour.uk/fox4k-usa.m3u8",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505282/88571e4fbc86415ba51d9e015dac65f4/LlpU_-tWIkhQkTG5Vtd4IGHun5C2JXu0ZmRjM1dv2Eo/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
-        "name": "TELEMUNDO 4K",
-        "url": "https://lb.xyzcloud3.xyz/tele4k/index.m3u8",
+        "name": "TELEMUNDO FHD",
+        "url": "https://lb.xyzcloud3.xyz/Telemundo/index.m3u8?",
         "drm_key": ""
       },
       {
         "name": "TSN SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8",
+        "url": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "FUSSBALL 4K LIVE",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505729/f91631f4804e40918a34d6c22a2b425d/vzZrEt9bl3albPVR5vLtvFGGN-vUrPy08HJwPJ0ecKc/fusballtv1uhd-de.m3u8",
         "drm_key": ""
       },
       {
@@ -553,7 +548,7 @@
       },
       {
         "name": "ARABIC LIVE HD",
-        "url": "https://lb.xyzcloud3.xyz/tod1/index.m3u8",
+        "url": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?",
         "drm_key": ""
       },
       {
@@ -573,12 +568,12 @@
       },
       {
         "name": "HD SERVER ENG",
-        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
+        "url": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?",
         "drm_key": ""
       },
       {
         "name": "HD SERVER AR",
-        "url": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?",
+        "url": "https://edge2caster.pro/hls/sqdahach1ax.m3u8?",
         "drm_key": ""
       },
       {
@@ -625,14 +620,9 @@
     "status": "Upcoming",
     "servers": [
       {
-        "name": "TSN SPORTS FHD",
-        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-      },
-      {
-        "name": "FOX SPORTS HD",
-        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
-        "drm_key": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
+        "name": "ITV SPORTS FHD",
+        "url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
+        "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
       },
       {
         "name": "TIPIK FR FHD",
@@ -640,39 +630,29 @@
         "drm_key": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a"
       },
       {
-        "name": "TVP SPORTS FHD",
-        "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-        "drm_key": "95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64"
+        "name": "TSN SPORTS FHD",
+        "url": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
-        "name": "SportzX HD LIVE",
-        "url": "https://storage.googleapis.com/qwertyuipoiuytr/mux_video_ts/index-1.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "CT SPORTS CZ",
-        "url": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-        "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-      },
-      {
-        "name": "BBC SPORTS HD",
+        "name": "ITV SPORTS HD",
         "url": "https://chatgpt.hereisman.net/playlist/52473/load-playlist?",
         "drm_key": ""
       },
       {
         "name": "FOX SPORTS HD",
+        "url": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd",
+        "drm_key": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933"
+      },
+      {
+        "name": "TVP SPORTS FHD",
+        "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+        "drm_key": "0:0"
+      },
+      {
+        "name": "FOX SPORTS HD",
         "url": "https://lb.xyzcloud3.xyz/FS1/index.m3u8?",
         "drm_key": ""
-      },
-      {
-        "name": "TSN SPORTS HD",
-        "url": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "TVCG 2 FHD",
-        "url": "https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd",
-        "drm_key": "abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4"
       },
       {
         "name": "D Sports FHD",
@@ -686,22 +666,12 @@
       },
       {
         "name": "TOFFE BDIX (BD)",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782420013~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvfZ5JmGmk77YGPec76Lfl8EP2Kfaj46SO_-bpB5hYto2URysqJhDvM09Ng-nXeGdSjktjXP91QY6tA0vkbaAFMC",
+        "url": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_3000.m3u8?hdntl=Expires=1782582010~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvdVvVxb57lNjL075QsFbjN-dBef_A8KVYO1bNx1thN2bq_vgwnWAvVoJdrRAxcqUfYPGRlM3rW_4Ts1liBwmacM",
         "drm_key": ""
-      },
-      {
-        "name": "ViX MUNDIAL FHD",
-        "url": "https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd",
-        "drm_key": "052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b"
       },
       {
         "name": "beIN MAX FHD",
-        "url": "https://inproviszon.st/beinsportsmax3-sa.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "FAST SERVER",
-        "url": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJMX3nyaE1k.m3u8?txSecret=4c1f5ec6cf85ce8116d085a2ae6684c3&txTime=6A3C7689",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505541/bf9bd5a3f94f41b1a618643f51cb624d/3okRkzIN8E9YgXBdVFikDOPpCQLrKFGVK8ZbRSCX2iI/beinsportsmax-sa.m3u8",
         "drm_key": ""
       },
       {
@@ -730,28 +700,23 @@
         "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
       },
       {
-        "name": "PEACOCK FHD [ALT]",
-        "url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021313-723171-4911d9eeb23)/master_2hr.mpd?c3.ri=6a3c48a6_Q1ZYMDc_1_Q0xPVURGUk9OVA_f89d4526b464%3A0&aws.sessionId=0b9ad00b-bdd5-4153-970f-8c465e3b4036&ck=eyIwMDIyN2NiNjBjN2U2NWU2OGFjZTNkNTU4N2Y1MDlmZiI6ImZhYzFmY2RhZmQwOTYxOTBmY2FiMmVlZDg4YTE3NzRhIn0%3D",
-        "drm_key": "00227cb60c7e65e68ace3d5587f509ff:fac1fcdafd096190fcab2eed88a1774a"
-      },
-      {
         "name": "NBC UNIVERSO [USA]",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
       },
       {
         "name": "FOX SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8",
+        "url": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
         "drm_key": ""
       },
       {
-        "name": "FS1 4K LIVE",
-        "url": "https://inproviszon.st/fox-sports-1-4k.m3u8",
+        "name": "NBC UNIVERSO FHD",
+        "url": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?",
         "drm_key": ""
       },
       {
-        "name": "NBC UNIVERSO 4K",
-        "url": "https://lb.xyzcloud3.xyz/tele4k2/index.m3u8",
+        "name": "FUSSBALL 4K LIVE",
+        "url": "https://vildid.hundredmilesperhour.uk/1782505674/102c4bc3a07342e6b34c1da547b83b4c/2tzQpUE7hL-JKxemghHxv-e4f9x43liWnmTvnEyqlw0/fusballtv2uhd-de.m3u8",
         "drm_key": ""
       },
       {
@@ -771,7 +736,7 @@
       },
       {
         "name": "ARABIC LIVE HD",
-        "url": "https://karim-xjhr-eu-20260624.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8",
+        "url": "https://lb.xyzcloud3.xyz/bein/index.m3u8?",
         "drm_key": ""
       },
       {
