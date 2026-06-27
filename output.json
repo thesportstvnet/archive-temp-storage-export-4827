@@ -78,6 +78,39 @@
     ]
   },
   {
+    "title": "AEW Dynamite",
+    "category": "WWE",
+    "event_time": "2026-07-02 00:00",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "TSN SPORTS",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+        "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+      },
+      {
+        "name": "SportzX WWE",
+        "url": "https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "Fox Sports Premium",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+      },
+      {
+        "name": "BACKUP HD",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "BACKUP SD",
+        "url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8",
+        "drm_key": ""
+      }
+    ]
+  },
+  {
     "title": "Zimbabwe vs Bangladesh",
     "category": "Cricket",
     "event_time": "2026-06-28 07:30",
@@ -189,6 +222,29 @@
     ]
   },
   {
+    "title": "ONE Friday Fights",
+    "category": "Boxing",
+    "event_time": "2026-07-03 12:30",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "One Fight FHD",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+        "drm_key": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d"
+      },
+      {
+        "name": "Server 2",
+        "url": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+        "drm_key": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271"
+      },
+      {
+        "name": "Server 3",
+        "url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+        "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0"
+      }
+    ]
+  },
+  {
     "title": "🥊 WWE Monday Night RAW",
     "category": "WWE",
     "event_time": "2026-06-30 00:00",
@@ -223,6 +279,44 @@
         "name": "Tap Sport LQ",
         "url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
         "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f"
+      }
+    ]
+  },
+  {
+    "title": "🥊 WWE Friday Night SmackDown",
+    "category": "WWE",
+    "event_time": "2026-07-04 00:00",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "SportzX WWE HD",
+        "url": "https://chatgpt.hereisman.net/playlist/52583/load-playlist?",
+        "drm_key": ""
+      },
+      {
+        "name": "WWE LIVE HD",
+        "url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SportzX TV+ HD",
+        "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "HD QUALITY",
+        "url": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "LOW QUALITY",
+        "url": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "USA TV",
+        "url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+        "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
       }
     ]
   },
@@ -320,8 +414,13 @@
     "title": "Toronto Tempo vs Phoenix Mercury",
     "category": "WNBA",
     "event_time": "2026-06-27 18:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
+      {
+        "name": "SportzX WNBA",
+        "url": "https://chatgpt.hereisman.net/playlist/52610/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?",
@@ -408,6 +507,49 @@
         "name": "WILLOW [ALT]",
         "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/17flenwlyh/out/v1/eeb7c6d90e4744b0b4c713f449b1fefb/cenc.mpd",
         "drm_key": "2dad9ca825a06ca87ae6d8715547c544:4ac3852a3ae808bef3612a4b6eba2336"
+      }
+    ]
+  },
+  {
+    "title": "England vs New Zealand",
+    "category": "Cricket",
+    "event_time": "2026-06-28 10:00",
+    "status": "Upcoming",
+    "servers": [
+      {
+        "name": "WILLOW FHD",
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
+      },
+      {
+        "name": "SKY CRICKET FHD",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
+        "drm_key": ""
+      },
+      {
+        "name": "WILLOW ALT",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
+      },
+      {
+        "name": "SKY MAIN EVENT",
+        "url": "https://tmaxapp.site/skymainevent.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz1.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SonyLiv",
+        "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX CRICKET HD",
+        "url": "https://tmaxapp.site/foxcricket.m3u8",
+        "drm_key": ""
       }
     ]
   },
@@ -1769,6 +1911,11 @@
     "event_time": "2026-06-27 19:07",
     "status": "Upcoming",
     "servers": [
+      {
+        "name": "SportzX MLB",
+        "url": "https://chatgpt.hereisman.net/playlist/52612/load-playlist?",
+        "drm_key": ""
+      },
       {
         "name": "SportzX Live",
         "url": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?",
