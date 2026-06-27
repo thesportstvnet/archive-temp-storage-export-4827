@@ -1241,6 +1241,11 @@
         "drm_key": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b"
       },
       {
+        "name": "FOX SPORTS 4K",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ucyzt0tvgp/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
+        "drm_key": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00"
+      },
+      {
         "name": "ITV SPORTS FHD",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
         "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
@@ -1960,7 +1965,7 @@
     "title": "Tampa Bay Rays vs Diamondbacks",
     "category": "MLB",
     "event_time": "2026-06-27 22:10",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
