@@ -117,8 +117,13 @@
     "status": "Live",
     "servers": [
       {
+        "name": "Tapmad HD+",
+        "url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?",
+        "drm_key": ""
+      },
+      {
         "name": "TAPMAD FHD",
-        "url": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8",
+        "url": "https://pastebin.com/raw/U2LaqQne?&.m3u8",
         "drm_key": ""
       },
       {
@@ -355,12 +360,12 @@
     "title": "England vs New Zealand",
     "category": "Cricket",
     "event_time": "2026-06-28 10:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
-        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+        "drm_key": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa"
       },
       {
         "name": "SKY CRICKET FHD",
@@ -369,8 +374,8 @@
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
-        "drm_key": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+        "drm_key": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa"
       },
       {
         "name": "SKY MAIN EVENT",
@@ -383,8 +388,8 @@
         "drm_key": ""
       },
       {
-        "name": "SonyLiv",
-        "url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d",
+        "name": "Sony Liv [Asia]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683707~acl=/*~id=90059764072974571438912851560412~hmac=d028531eb8e50ebd1ff5f2fc2945f1361956dff837764fd012bb23cc540a1b9d",
         "drm_key": ""
       },
       {
@@ -1300,26 +1305,31 @@
     "title": "South Africa W vs Bangladesh W",
     "category": "Cricket",
     "event_time": "2026-06-28 09:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
-        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd",
+        "drm_key": "321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085"
       },
       {
         "name": "WILLOW ALT",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd",
-        "drm_key": "15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1"
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
+        "drm_key": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa"
       },
       {
         "name": "SKY SPORT NZ",
-        "url": "https://tmaxapp.site/skynz2.m3u8",
+        "url": "https://tmaxapp.site/skynz4.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "SKY SPORTS PLUS",
+        "url": "https://tmaxapp.site/skyplussd.m3u8",
         "drm_key": ""
       },
       {
         "name": "WILLOW HD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
       }
     ]
