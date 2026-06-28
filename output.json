@@ -114,52 +114,27 @@
     "title": "Zimbabwe vs Bangladesh",
     "category": "Cricket",
     "event_time": "2026-06-28 07:30",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
-        "name": "WILLOW FHD",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd",
-        "drm_key": "0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e"
+        "name": "TAPMAD FHD",
+        "url": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8",
+        "drm_key": ""
       },
       {
-        "name": "TNT SPORTS FHD",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
-        "drm_key": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca"
+        "name": "FANCODE (BD)",
+        "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
+        "drm_key": ""
       },
       {
-        "name": "FANCODE FHD",
-        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-        "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe"
-      },
-      {
-        "name": "WILLOW ALT",
-        "url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd",
-        "drm_key": "8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358"
+        "name": "FANCODE - IN",
+        "url": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+        "drm_key": ""
       },
       {
         "name": "FANCODE - SD",
         "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
         "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e"
-      },
-      {
-        "name": "FOX CRICKET",
-        "url": "https://sila-daw.wasabih.net/wasabi-kayo/jo74ryszmcvd1pzmbzp50q84a/manifest.mpd",
-        "drm_key": "01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22"
-      },
-      {
-        "name": "FOX CRICKET HD",
-        "url": "https://tmaxapp.site/foxcricket.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "TAPMAD FHD",
-        "url": "https://seriealeague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8",
-        "drm_key": ""
-      },
-      {
-        "name": "T SPORTS HD",
-        "url": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1781942066~Starts=1781855666~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=GWqDeRYBLPDd7t6O2Z6mY0kK-ZjAlsMYp9OIJMeexFfdZgY2w8e90na2LCtHxy3yIts4-nDPv33pM0nEKuzlDw",
-        "drm_key": ""
       }
     ]
   },
@@ -317,29 +292,6 @@
         "name": "USA TV",
         "url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
         "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-      }
-    ]
-  },
-  {
-    "title": "Los Angeles Angels vs Athletics",
-    "category": "MLB",
-    "event_time": "2026-06-28 01:38",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52647/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
       }
     ]
   },
@@ -1369,60 +1321,6 @@
         "name": "WILLOW HD",
         "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
         "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-      }
-    ]
-  },
-  {
-    "title": "Baltimore Orioles vs Washington Nationals",
-    "category": "MLB",
-    "event_time": "2026-06-27 23:05",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Cleveland Guardians vs Seattle Mariners",
-    "category": "MLB",
-    "event_time": "2026-06-27 23:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Milwaukee Brewers vs Chicago Cubs",
-    "category": "MLB",
-    "event_time": "2026-06-27 23:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/fskjanach24.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
       }
     ]
   }
