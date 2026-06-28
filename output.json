@@ -245,7 +245,7 @@
     "title": "Red Sox vs Yankees",
     "category": "MLB",
     "event_time": "2026-06-28 23:20",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
@@ -312,7 +312,7 @@
     "title": "Valkyries vs Liberty",
     "category": "WNBA",
     "event_time": "2026-06-28 23:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "SportzX Live",
@@ -1913,167 +1913,6 @@
       {
         "name": "SD SERVER [CN]",
         "url": "https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Baltimore Orioles vs Nationals",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:35",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52658/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Pittsburgh Pirates vs Cincinnati Reds",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:35",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52656/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Toronto Blue Jays vs Texas Rangers",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:37",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52662/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Guardians vs Seattle Mariners",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:40",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52660/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB7/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Detroit Tigers vs Houston Astros",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:40",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52667/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB5/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "New York Mets vs Philadelphia Phillies",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:40",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52663/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Tampa Bay Rays vs Diamondbacks",
-    "category": "MLB",
-    "event_time": "2026-06-28 17:40",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52665/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edgestreams.pro/hls/Czajafjihafch18.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
