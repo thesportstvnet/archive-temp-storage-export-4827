@@ -165,158 +165,77 @@
     ]
   },
   {
-    "title": "Cardinals vs Miami Marlins",
-    "category": "MLB",
-    "event_time": "2026-06-28 18:15",
-    "status": "Live",
+    "title": "Australia W vs West Indies W",
+    "category": "Cricket",
+    "event_time": "2026-06-30 13:30",
+    "status": "Upcoming",
     "servers": [
       {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52680/load-playlist?",
+        "name": "WILLOW FHD",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
+      },
+      {
+        "name": "WILLOW ALT",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9zm2lgklpu/out/v1/260e09111f1c41f2a985c96787453c78/cenc.mpd",
+        "drm_key": "72d7ef3f0057150c0dca2cd74dbfd8bf:1dfdf16e3e483ea953cadb74d48de95a"
+      },
+      {
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz4.m3u8",
         "drm_key": ""
       },
       {
-        "name": "SportzX LIVE",
-        "url": "https://edgestreams.pro/hls/kjhfzua25.m3u8?",
-        "drm_key": ""
+        "name": "WILLOW HD",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
+        "drm_key": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415"
       },
       {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?",
+        "name": "SKY SPORTS PLUS",
+        "url": "https://tmaxapp.site/skyplussd.m3u8",
         "drm_key": ""
       }
     ]
   },
   {
-    "title": "Angels vs Athletics",
-    "category": "MLB",
-    "event_time": "2026-06-28 19:15",
-    "status": "Live",
+    "title": "England vs New Zealand",
+    "category": "Cricket",
+    "event_time": "2026-06-29 10:00",
+    "status": "Upcoming",
     "servers": [
       {
-        "name": "SportzX Live",
-        "url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?",
+        "name": "WILLOW FHD",
+        "url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+        "drm_key": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa"
+      },
+      {
+        "name": "SKY CRICKET FHD",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141",
         "drm_key": ""
       },
       {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB12/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Giants vs Atlanta Braves",
-    "category": "MLB",
-    "event_time": "2026-06-28 20:05",
-    "status": "Live",
-    "servers": [
+        "name": "WILLOW ALT",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+        "drm_key": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa"
+      },
       {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?",
+        "name": "SKY MAIN EVENT",
+        "url": "https://tmaxapp.site/skymainevent.m3u8",
         "drm_key": ""
       },
       {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB13/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "San Diego Padres vs Dodgers",
-    "category": "MLB",
-    "event_time": "2026-06-28 20:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/hefbafbakx28.m3u8?",
+        "name": "SKY SPORT NZ",
+        "url": "https://tmaxapp.site/skynz1.m3u8",
         "drm_key": ""
       },
       {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB14/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Red Sox vs Yankees",
-    "category": "MLB",
-    "event_time": "2026-06-28 23:20",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?",
+        "name": "Sony Liv [Asia]",
+        "url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Englandv2806/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782683707~acl=/*~id=90059764072974571438912851560412~hmac=d028531eb8e50ebd1ff5f2fc2945f1361956dff837764fd012bb23cc540a1b9d",
         "drm_key": ""
       },
       {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB15/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Dallas Wings vs Minnesota Lynx",
-    "category": "WNBA",
-    "event_time": "2026-06-28 18:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX WNBA",
-        "url": "https://chatgpt.hereisman.net/playlist/52671/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Washington Mystics vs Portland Fire",
-    "category": "WNBA",
-    "event_time": "2026-06-28 19:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX WNBA",
-        "url": "https://chatgpt.hereisman.net/playlist/52681/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/ztyarueaghj71.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Chicago Sky vs Las Vegas Aces",
-    "category": "WNBA",
-    "event_time": "2026-06-28 20:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Valkyries vs Liberty",
-    "category": "WNBA",
-    "event_time": "2026-06-28 23:00",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX Live",
-        "url": "https://mainstreams.pro/hls/fdgsqdfawa73.m3u8?",
+        "name": "FOX CRICKET HD",
+        "url": "https://tmaxapp.site/foxcricket.m3u8",
         "drm_key": ""
       }
     ]
@@ -1913,75 +1832,6 @@
       {
         "name": "SD SERVER [CN]",
         "url": "https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Chicago White Sox vs Royals",
-    "category": "MLB",
-    "event_time": "2026-06-28 18:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52673/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/fskjanach24.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Milwaukee Brewers vs Chicago Cubs",
-    "category": "MLB",
-    "event_time": "2026-06-28 18:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52677/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?",
-        "drm_key": ""
-      }
-    ]
-  },
-  {
-    "title": "Minnesota Twins vs Colorado Rockies",
-    "category": "MLB",
-    "event_time": "2026-06-28 18:10",
-    "status": "Live",
-    "servers": [
-      {
-        "name": "SportzX MLB",
-        "url": "https://chatgpt.hereisman.net/playlist/52675/load-playlist?",
-        "drm_key": ""
-      },
-      {
-        "name": "SportzX Live",
-        "url": "https://edge2caster.pro/hls/jnzkdzjfanch23.m3u8?",
-        "drm_key": ""
-      },
-      {
-        "name": "HD SERVER",
-        "url": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?",
         "drm_key": ""
       }
     ]
