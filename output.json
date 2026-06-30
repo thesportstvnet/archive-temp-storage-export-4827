@@ -1713,7 +1713,7 @@
     "title": "France vs Sweden",
     "category": "FIFA World Cup",
     "event_time": "2026-06-30 21:00",
-    "status": "Upcoming",
+    "status": "Live",
     "servers": [
       {
         "name": "FOX ONE - AQ",
@@ -1791,6 +1791,11 @@
         "drm_key": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4"
       },
       {
+        "name": "M6 FRANCE (USA)",
+        "url": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+        "drm_key": "0182ed7af02734ecb17a2f55eec98f99:60346785b1095596de621031e9daf3ec"
+      },
+      {
         "name": "FOX ONE HD",
         "url": "https://inproviszon.st/fox-usa.m3u8",
         "drm_key": ""
@@ -1836,38 +1841,48 @@
         "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
       },
       {
-        "name": "PEACOCK FHD [ALT]",
-        "url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021354-723212-4912010878c)/master_2hr.mpd?c3.ri=6a402d62_Q1ZYMDc_1_Q0xPVURGUk9OVA_669cd9cd7327%3A0&aws.sessionId=1b7985c7-bc27-4276-ae70-c853004030b1&ck=eyIwMDIyMGRmMGEwYWQwMDdjZGQxNjEyZDAzZjczZmY2ZSI6IjZhMTYyYzBkMTVhZDBmNWQ5Y2ZlN2QzMDFhN2U5ZDhjIn0%3D",
-        "drm_key": "00220df0a0ad007cdd1612d03f73ff6e:6a162c0d15ad0f5d9cfe7d301a7e9d8c"
+        "name": "ITV SPORTS [ALT]",
+        "url": "https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+        "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
       },
       {
         "name": "UNIVERSEO [USA]",
-        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-        "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
+        "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+        "drm_key": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11"
       },
       {
-        "name": "FOX SPORTS 4K",
-        "url": "https://lb.xyzcloud3.xyz/fs14k/index.m3u8?",
+        "name": "TSN SPORTS 4K",
+        "url": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FOX ONE 4K",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
         "name": "FOX 4K LIVE",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782609979/a0fd3eaf7d474debb5c67e6153512f6a/OpZVlF7amSrM8YViIlYgv3bMgpBXOmdDyXdQvecmEdk/fox-sports-1-4k.m3u8",
+        "url": "https://inproviszon.st/fox4k-usa.m3u8",
         "drm_key": ""
       },
       {
-        "name": "UNIVERSO FHD",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782609989/275f3fa8832a46fd856aa0b5d396256e/4glE9EGDIrmY6aw1ojxZkTUsQC7hDt7PUkrXhheyRV4/universo-usa.m3u8",
+        "name": "TELEMUNDO FHD",
+        "url": "https://inproviszon.st/telemundo-usa.m3u8",
         "drm_key": ""
       },
       {
-        "name": "FUSSBALL TV 4K",
-        "url": "https://nhjjhhjhjjhfjj.pages.dev/1782610003/451ddbf797094c3dbf06c23b2b89869a/juXVIHUipS7ud1uL-ux1WAQ9sqEhl5zy3BjpphlzU2A/fusballtv2uhd-de.m3u8",
+        "name": "DAZN MUNDIAL",
+        "url": "https://inproviszon.st/daznmundial-es.m3u8",
+        "drm_key": ""
+      },
+      {
+        "name": "FUSSBALL TV UHD",
+        "url": "https://inproviszon.st/fussballtv1uhd-de.m3u8",
         "drm_key": ""
       },
       {
         "name": "ARABIC LIVE FHD",
-        "url": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?",
+        "url": "https://inproviszon.st/bein4k-xyz.m3u8",
         "drm_key": ""
       },
       {
@@ -1897,12 +1912,17 @@
       },
       {
         "name": "SportzX Live",
-        "url": "https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8?",
+        "url": "https://instreams.pro/US/NFLHD1/tracks-v1a1/mono.m3u8?",
+        "drm_key": ""
+      },
+      {
+        "name": "HD SERVER ES",
+        "url": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?",
         "drm_key": ""
       },
       {
         "name": "HD SERVER ENG",
-        "url": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?",
+        "url": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?",
         "drm_key": ""
       },
       {
@@ -1944,11 +1964,6 @@
         "name": "TELEMUNDO [USA]",
         "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
         "drm_key": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
-      },
-      {
-        "name": "ESPANOL SD",
-        "url": "https://pullsgp.yyzb456.top/live/stream-956896_lhd.m3u8",
-        "drm_key": ""
       },
       {
         "name": "TELEMUNDO FHD",
